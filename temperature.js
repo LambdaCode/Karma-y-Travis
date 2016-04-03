@@ -1,0 +1,1 @@
+!function(t){"use strict";function e(t,e){Medida.call(this,t,e)}e.prototype=new Medida,e.prototype.constructor=e,t.Temperatura=e}(this);

@@ -1,0 +1,1 @@
+!function(t){function o(t,o){Medida.call(this,t,o)}o.prototype=new Medida("34c"),o.prototype.constructor=o,t.Longitud=o}(this);

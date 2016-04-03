@@ -1,0 +1,1 @@
+!function(e){"use strict";e.convert=function(){var e=document.getElementById("convert").value,t=document.getElementById("converted");t.innerHTML=Medida.convertir(e)}}(this);

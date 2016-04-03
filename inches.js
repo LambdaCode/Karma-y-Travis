@@ -1,0 +1,1 @@
+!function(n){function t(n,t){converters={},converters.i=function(n){return n},converters.m=function(n){return 39.3701*n},n=converters[t]?converters[t](n):Medida.invalidConversion(t,"Inches"),Longitud.call(this,n,"Inches")}t.prototype=new Longitud,t.prototype.constructor=t,n.Inches=t}(this);
